@@ -38,27 +38,28 @@ git clone https://github.com/Rayyan-Arif/Mealy-Zone.git
 
 2. Navigate into the project folder:
 
-cd Mealy-Zone
+  cd Mealy-Zone
 
 
 3. Install dependencies:
 
-npm install
+  npm install
 
 
 4. Run the development server:
 
-npm run dev
+  npm run dev
 
 
 5. Open your browser at:
 
-http://localhost:5173
+  http://localhost:5173
 
+---
 
-Future Improvements:
+## Future Improvements:
 
-Add search functionality to find recipes by name
-Implement user authentication for saving favorites across devices
-Add animations and hover effects to improve UX
-Optimize API requests to reduce multiple fetch calls
+- Add search functionality to find recipes by name
+- Implement user authentication for saving favorites across devices
+- Add animations and hover effects to improve UX
+- Optimize API requests to reduce multiple fetch calls
